@@ -1,4 +1,4 @@
-# Canvas Automation Demo
+# Image Locator Demo
 
 This project automates interactions with an HTML5 canvas-based online calculator using Python, Playwright for browser control, and OpenCV for template matching to locate and click buttons.
 
